@@ -20,7 +20,7 @@
 I am a passionate **Computer Engineering** student who loves building scalable, production-ready backend systems and robust full-stack applications. I have hands-on experience taking projects all the way from initial client requirements to cloud deployment
 
 * 🎓 **Education:** Pursuing Bachelor of Computer Engineering at RGIT, Mumbai (CGPA: 8.54)
-* 💼 ** Experience:** Full Stack Java Developer Intern at Quantum Core Infotech LLP
+* 💼 **Experience:** Full Stack Java Developer Intern at Quantum Core Infotech LLP
 * 🚀 **Core Focus:** Building robust APIs with Spring Boot, exploring AI integration,and configuring cloud infrastructure
 * 🧠 **Problem Solving:** Actively cracking DSA challenges on LeetCode
 
@@ -73,16 +73,17 @@ I am a passionate **Computer Engineering** student who loves building scalable, 
 * Deployed live to **AWS EC2** with secure, role-based authorization rules
 
 ### 🧠 AI-Powered Personal Healthcare Companion
-> [cite_start]**Stack:** React, FastAPI, MongoDB, Ollama (LLaMA), DeBERTa [cite: 22, 25]
-* [cite_start]Developed an interactive health chatbot combining local LLM generation with sentiment tracking[cite: 23, 24].
-* [cite_start]Embedded deep emotion-classification layers to visual chart data feeds for real-time user insights[cite: 25, 26].
-* [cite_start]Standardized reliable state handling using localized OTP verification hooks and JWT safety protocols[cite: 27].
+> **Stack:** React, FastAPI, MongoDB, Ollama (LLaMA), DeBERTa.
+* Developed an interactive health chatbot combining local LLM generation with sentiment tracking.
+* Embedded deep emotion-classification layers to visual chart data feeds for real-time user insights.
+* Standardized reliable state handling using localized OTP verification hooks and JWT safety protocols.
 
 ---
 
 ## 🏆 Certifications & Badges
-* [cite_start]**Google Cloud Career Launchpad** – *Cloud Engineer Track* [cite: 31]
-* **HackerRank Java (Basic)** | [cite_start]**HackerRank SQL (Basic)** [cite: 32]
+* **Google Cloud Career Launchpad** – *Cloud Engineer Track* 
+* **HackerRank Java (Basic)** 
+* **HackerRank SQL (Basic)** 
 
 ---
 
@@ -107,7 +108,7 @@ I am a passionate **Computer Engineering** student who loves building scalable, 
 
 
 ### 🎯 LeetCode Milestones
-* **357+ Problems Solved** (Medium & Hard Focus)
+* **360+ Problems Solved** 
 * **Contest Rating:** 1480+ ⭐ 
 
 ---
