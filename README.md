@@ -112,7 +112,7 @@ I am a passionate **Computer Engineering** student who loves building scalable, 
 
 
 ### 🎯 LeetCode Milestones
-* **370+ Problems Solved** 
+* **380+ Problems Solved** 
 * **Contest Rating:** 1531 ⭐ 
 
 ---
