@@ -109,24 +109,28 @@ I am a passionate **Computer Engineering** student who loves building scalable, 
 
 ---
 
-
-## 📊 Git & Coding Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeSavvyJayesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSavvyJayesh&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavvyJayesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CodeSavvyJayesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSavvyJayesh&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSavvyJayesh&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSavvyJayesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 
 ### 🎯 LeetCode Milestones
