@@ -8,7 +8,7 @@
   <a href="mailto:jayeshdhamal03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/CodeSavvyJayesh/" target="_blank">
+  <a href="https://leetcode.com/u/jezzycool/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://portfolio-alpha-wine-1c9h3y5fc7.vercel.app/" target="_blank">
