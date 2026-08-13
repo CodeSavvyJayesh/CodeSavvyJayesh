@@ -23,7 +23,7 @@
 
 I am a passionate **Computer Engineering** student who loves building scalable, production-ready backend systems and robust full-stack applications. I have hands-on experience taking projects all the way from initial client requirements to cloud deployment
 
-* 🎓 **Education:** Pursuing Bachelor of Computer Engineering at RGIT, Mumbai (CGPA: 8.54)
+* 🎓 **Education:** Pursuing Bachelor of Computer Engineering at RGIT, Mumbai (CGPA: 8.61)
 * 💼 **Experience:** Full Stack Java Developer Intern at Quantum Core Infotech LLP
 * 🚀 **Core Focus:** Building robust APIs with Spring Boot, exploring AI integration,and configuring cloud infrastructure
 * 🧠 **Problem Solving:** Actively cracking DSA challenges on LeetCode
